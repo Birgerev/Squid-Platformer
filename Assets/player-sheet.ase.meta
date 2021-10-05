@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3246741355a9fb040839e0d46666cc84
+guid: a97c501111657414cb8a3192330dc53b
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -12,7 +12,7 @@ ScriptedImporter:
     importType: 0
     transparencyMode: 0
     transparentColor: {r: 1, g: 0, b: 1, a: 1}
-    pixelsPerUnit: 16
+    pixelsPerUnit: 32
     spriteAlignment: 0
     spritePivot: {x: 0.5, y: 0.5}
     generateAnimations: 1
